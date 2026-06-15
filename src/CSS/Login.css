@@ -1,0 +1,31 @@
+.Login{
+    width: 30%;
+    background-color: red;
+    margin: 20vh auto;
+    border: 1px solid grey;
+    border-radius: .4rem;
+    padding: 1.8rem;
+
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    gap: 3rem;
+}
+.Login-h1{
+
+    align-self: center;
+    font-size: 2rem;
+
+}
+.Login-form{}
+.Login-label{
+    margin: 0 0 .5rem;
+}
+.Login-input{
+    width: 100%;
+    border: 1px solid grey;
+    padding: 1rem;
+}
+.Login-submit{}
+.Login-button{
+}
