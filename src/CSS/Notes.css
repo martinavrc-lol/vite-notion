@@ -1,0 +1,25 @@
+.Notes{
+    width: 100%;
+    min-height: 100vh;
+    background-color: pink;
+
+    display: grid;
+    grid-template-columns: 200px 1fr;
+
+    
+}
+.Notes-main{}
+.Notes-h1{
+    background-color: blue;
+    padding: 1rem;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+
+    
+}
+.Notes-h2{}
+.Notes-add{}
+.Notes-input{}
+.Notes-edit{}

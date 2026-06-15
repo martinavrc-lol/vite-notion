@@ -1,0 +1,29 @@
+.Header{
+    width: 100%;
+    background-color: red;
+    padding: 1rem;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: start;
+    
+}
+.Header-icon{
+    width: 50%;
+    align-self: center;
+    
+}
+.Header-nav{
+    background-color: green;
+}
+.Header-ul{
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.Header-li{}
+.Header-button{
+    background-color: blue;
+}
